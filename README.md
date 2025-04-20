@@ -21,7 +21,7 @@ APK dosyalarını yükleyebilmek için Android cihazınızın "Bilinmeyen Kaynak
 
 Oyun dosyasını aşağıdaki güvenilir bağlantıdan indirin:
 
-🔗 [Oyun APK Dosyasını İndir]((https://drive.google.com/file/d/15jrjnFKhSi3Cj9z7u62WKtN7V-rgDDlB/view?usp=sharing))
+🔗 [Oyun APK Dosyasını İndir]([https://drive.google.com/file/d/15jrjnFKhSi3Cj9z7u62WKtN7V-rgDDlB/view?usp=sharing])
 
 > İndirilen dosya, genellikle `Dosyalar > İndirilenler` veya `Downloads` klasöründe yer alır.
 
