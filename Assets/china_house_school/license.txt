@@ -1,0 +1,11 @@
+Model Information:
+* title:	China_House_school
+* source:	https://sketchfab.com/3d-models/china-house-school-a6b16128994d41f6a789648056060be0
+* author:	yasmina_sawaryn (https://sketchfab.com/yasmina_sawaryn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "China_House_school" (https://sketchfab.com/3d-models/china-house-school-a6b16128994d41f6a789648056060be0) by yasmina_sawaryn (https://sketchfab.com/yasmina_sawaryn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
